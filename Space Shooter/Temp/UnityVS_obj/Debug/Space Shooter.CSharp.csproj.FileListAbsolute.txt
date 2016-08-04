@@ -1,0 +1,15 @@
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_obj\Debug\Space Shooter.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\MATTIA\Documents\GitHub\SpaceShooter\Space Shooter\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
